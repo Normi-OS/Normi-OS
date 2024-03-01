@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<!--
+### NORMI OS - Linux for Normis
+## Interface and Working
+!--
 **Normi-OS/Normi-OS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
