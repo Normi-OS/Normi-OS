@@ -1,4 +1,8 @@
-### NORMI OS - Linux for Normis
+### NORMI OS - Linux for Normis - by [**Vinod Kumar**](https://github.com/iamNormi)
+### Based on [Arch Linux](https://archlinux.org/)
+• **Innovative System Development:** Spearheaded the creation of Normi-OS, a versatile, customizable OS built on Arch Linux.
+• **Scripting Expertise:** Pioneered the Multiple Profile Script, transforming desktop customization, showcasing proficiency in scripting.
+•** FOSS Advocacy and Collaboration:** Actively championed FOSS values, fostering transparency, collaboration, and user-centric empowerment in project development.
 ## Interface and Working
 !--
 **Normi-OS/Normi-OS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
